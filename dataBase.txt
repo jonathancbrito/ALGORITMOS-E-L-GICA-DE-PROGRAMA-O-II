@@ -1,0 +1,18 @@
+
+Nome: Jonathan 
+CPF: 5115818848 
+Sexo: M 
+Idade: 22 
+
+Tem Febre? : s
+Tem dor de cabeça? : n
+Tem secreção nasal ou espirros? : s
+Tem dor/irritação na garganta? : s
+Tem tosse seca? : s
+Tem dificuldade respiratória? : s
+Tem dores no corpo? : s
+Tem diarréia? : s
+Esteve em contato, nos últimos 14 dias, com um caso diagnosticado com COVID-19? ?: s
+Esteve em locais com grande aglomeração? : s
+ Total de pontos: 35 
+
